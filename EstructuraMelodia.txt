@@ -1,0 +1,16 @@
+ESTRUCTURA CANÇO AC3  
+
+VERS (V)
+Cmaj  Bmin  Amin  Fmaj-Gmaj
+
+PONT (P)
+Fmaj  Gmaj  
+
+TORNADA (T)
+Amin  Fmaj  Cmaj  Emaj  
+
+TORNADA (Última ronda)(T)
+Amin  Fmaj  Gmaj
+
+ESTRUCTURA: Vx4 -> P -> Tx2 -> Vx4 -> P -> Tx4
+
